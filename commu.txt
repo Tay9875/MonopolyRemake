@@ -1,0 +1,31 @@
+0 6 0
+-50 0 0
+-200 0 0
+-75 0 0
+-50 0 0
+-10 0 0
+50 0 0
+0 4 0
+-50 0 0
+500 0 0
+10 0 0
+15 0 0
+150 0 0
+-40 0 0
+300 0 0
+-60 0 0C'est votre anniversaire : avancez de 6 cases
+Vous avez ete sur une plage privee: vous payez 50 euros
+Renovation a faire! Vous payez 200 euros
+Vous avez amenage un lieu public: vous payez 75 euros
+Vous avez fraude: vous avez une amende de 50 euros
+Oh non! Vous avez oublie votre serviette sur la plage!
+Fete playa: la banque vous offre 50 euros pour l'avoir invitee
+Il fait trop chaud! Mets toi sous le palmier 4 cases plus loin
+Marty le singe a casse les verres: vous paye 50 euros de reparation
+Erreur de la banque, elle vous donne 500 euros
+C'est le jour de la solidarite : vous gagnez 10 euros
+Des stands sur vos plages: la banque vous offre 15 euros
+Votre entourage etait persuade que vous etiez mort, recevez 150 euros
+Pique par un oursin, pincer par un crabe: vous payez 40 euros de soins
+Espece rare d'etoile de mer: vous recevez 300 de la banque
+Vacances en famille: vous payez 60 euros
