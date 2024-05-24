@@ -1,0 +1,31 @@
+0 0 30 0
+0 0 7 0
+200 0 0 0
+-25 0 0 0
+200 0 0 0
+-135 0 0 0
+-80 0 0 0
+15 0 0 0
+0 5 0 0
+0 30 0 0
+0 25 0 0
+-75 0 0 0
+100 0 0 0
+1000 0 0 0
+0 3 0 0
+0 1 0 1Allez directement a la case depart!
+Allez directement en prison!
+Vous avez bien travaille, recevez 200 euros de la banque
+Un ouragan a abime une de vos proprietes: payez 25 euros de reparation
+Votre societe a souffert du covid: recevez 200 euros de l'etat
+Vous avez une attestation pour promener votre chien sans chien: payez 135 d'amende
+Vous avez une amende de place payante: payez 80 euros
+Oh! 15 euros sont par terre
+Courses entre ami(e)s! Avancez de 5 cases
+Vous avez une nouvelle voiture! Faisons un tour!
+Allez sur Main beach byron bay!
+Vous avez abime la propriete d'autrui: payez 75 euros de reparation
+Vous avez toruve un ticket gagnant: vous gagnez 100 euros
+Heritage de famille: gagnez 1000 euros
+On vous depose: avancez de 3 cases
+Vous etes librrrrre!
