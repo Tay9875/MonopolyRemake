@@ -1,31 +1,27 @@
 # MonopolyRemake
 C version of Monopoly that incorporates the Allegro library.
+
 This project allows you to alternate between console and allegro console: you play on the typical console while having a physical representation with the Allegro console.
 
-Une version en C de Monopoly, qui incorpore la librairie Allegro.
-Ce projet permet d'alterner entre consoles (il faut compter la console graphique d'Allegro).
-
-Projet réalisé par Tay9875
+Project by Tay9875
 
 ## Installation
 Recommendation: Codeblocks
 
-L'installation est assez rapide est simple. Il faudra télécharger tout les documents donné dans le même dossier qui constitue votre projet.
+The installation process is quite simple and fast. All that needs to be done is to download all the documents in the your project file, and run it through your C programming app of choice.
 
-## Construit avec 
+## Built with 
 - C
-- Allegro
+- Allegro library
 
-## Mise à jour futur
-- [x] Création d'une matrice isométrique
-- [x] Création d'un tableau de BITMAP
-- [x] Analyse de position de la souris sur la matrice isométrique
-- [x] Ajout d'éléments sur la matrice
-- [x] Suppression d'éléments de la map
-- [x] Ajout d'éléments differents en fonction de celui séléctionné dans le menu
-- [x] Ajout d'objets par dessus la map
-- [ ] Sauvegarde de la map
-- [ ] Chargement d'une map déjà commencé
-- [ ] Screenshot de la map
+## Future updates
+- [x] Add a ristricted amount of players based on the users choice
+- [x] Different coloured chips for every player
+- [x] Graphical representation of the game
+- [x] Player chips going on accurate boxes
+- [x] Bank and money managing
+- [x] Buying properties, hotels and houses
+- [ ] Prison rule
+- [ ] Mortgage properties
 
 #
