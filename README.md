@@ -7,16 +7,16 @@ Ce projet permet d'alterner entre consoles (il faut compter la console graphique
 
 Projet réalisé par Tay9875
 
-##Installation
+## Installation
 Recommendation: Codeblocks
 
 L'installation est assez rapide est simple. Il faudra télécharger tout les documents donné dans le même dossier qui constitue votre projet.
 
-##Construit avec 
+## Construit avec 
 - C
 - Allegro
 
-##Mise à jour futur
+## Mise à jour futur
 - [x] Création d'une matrice isométrique
 - [x] Création d'un tableau de BITMAP
 - [x] Analyse de position de la souris sur la matrice isométrique
@@ -27,3 +27,5 @@ L'installation est assez rapide est simple. Il faudra télécharger tout les doc
 - [ ] Sauvegarde de la map
 - [ ] Chargement d'une map déjà commencé
 - [ ] Screenshot de la map
+
+#
